@@ -1,2 +1,2 @@
 spring:
- datasource: hello data source
+ datasource: com.mysql.cj.jdbc.Driver
