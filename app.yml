@@ -1,2 +1,2 @@
 spring:
- datasource: hello
+ datasource: hello data source
