@@ -1,2 +1,2 @@
-envirnoment:
-   message: hello
+spring:
+ datasource: hello
